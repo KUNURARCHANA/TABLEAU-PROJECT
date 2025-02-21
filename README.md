@@ -27,7 +27,7 @@ Explore different dashboards and insights.
 
 🗄 Data Source: [CSV/Excel/SQL database]
 
-📊 Visualizations: [Bar charts, Line charts, Heatmaps, etc.]
+📊 Visualizations: [Bar charts, Line charts, Treemaps, etc.]
 
 ## About the presentation
 
